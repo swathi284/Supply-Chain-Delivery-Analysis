@@ -82,7 +82,7 @@ Operations and logistics teams need answers to questions such as:
 
 **Key fields used:** order and shipping dates, scheduled vs real shipping days, shipping mode, delivery status, order region, customer segment, department and category, payment type, order status, sales, and profit per order.
 
-> The dataset file is not included in this repository because of its size. See [How to Run](#how-to-run) for download instructions.
+> See [How to Run](#how-to-run) for download instructions.
 
 ---
 
