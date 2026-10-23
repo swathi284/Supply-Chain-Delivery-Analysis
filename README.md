@@ -23,7 +23,6 @@
 - [Project Workflow](#project-workflow)
 - [Data Cleaning and Feature Engineering](#data-cleaning-and-feature-engineering)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Plot Findings](#plot-findings)
 - [Key Insights](#key-insights)
 - [Machine Learning Model](#machine-learning-model)
 - [Recommendations](#recommendations)
