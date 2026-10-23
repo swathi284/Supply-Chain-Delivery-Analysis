@@ -143,7 +143,6 @@ The notebook includes the following analyses:
 **Time Analysis**
 <img width="1790" height="590" alt="time_analysis" src="https://github.com/user-attachments/assets/d914d8ea-7f25-4b29-a7b3-39402b819a67" />
 
-
 ---
 
 ## Key Insights
