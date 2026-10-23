@@ -134,12 +134,15 @@ The notebook includes the following analyses:
 - **Regional driver analysis:** a reusable function that ranks the top factors behind late delivery for any region (demonstrated on Central Africa)
 - **Time-based analysis:** delay rate by month, day of week, and hour of day
 
-![Delay Distribution]
+**Delay Distribution**
 <img width="1590" height="590" alt="delay_distribution" src="https://github.com/user-attachments/assets/868aae69-9c09-4cea-b488-b07d0da6c934" />
 
+**Delay by Category**
+<img width="1611" height="711" alt="delay_by_category" src="https://github.com/user-attachments/assets/b17809a4-f42f-4ccb-8e7e-2d609e9fe2a3" />
 
-![Delay by Category](Images/delay_by_category.png)
-![Time Analysis](Images/time_analysis.png)
+**Time Analysis**
+<img width="1790" height="590" alt="time_analysis" src="https://github.com/user-attachments/assets/d914d8ea-7f25-4b29-a7b3-39402b819a67" />
+
 -->
 
 ---
